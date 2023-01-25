@@ -1,0 +1,15 @@
+body {
+  background-color: lightcoral;
+}
+
+h1, h4, ul, ol, p {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+  display: block;
+  width: 500px;
+  height: auto;
+  margin: auto; 
+}
